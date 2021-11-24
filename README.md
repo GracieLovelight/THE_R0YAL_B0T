@@ -6,7 +6,7 @@
 
 # Running I.R.I.S., THE R0YAL B0T
  
- If you want to run this bot, all you need to do is install the dependencies, install Python 3.9, make a bot through the iscord API website, copy the token, open Main.py, scroll to the very bottom, remove the word token, add open and closed quotation marks, then paste the token inside of the quotation marks and you're good to go!
+ If you want to run this bot, all you need to do is install the dependencies, install Python 3.9, make a bot through the Discord API website, copy the token, open Main.py, scroll to the very bottom, remove the word token, add open and closed quotation marks, then paste the token inside of the quotation marks and you're good to go!
 
 # Questions or Concerns...
 
