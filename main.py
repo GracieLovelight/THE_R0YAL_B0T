@@ -13,7 +13,7 @@ import time
 import asyncio
 from better_profanity import profanity
 
-bot = commands.Bot(command_prefix="~", case_insensitive = True, description = "THE R0YAL BOT is THE PLAYER ZER0's Discord bot written in Python 3.9 which is specifically made for the PLAYER ZER0 STUDIOS' Discord Server!", help_command=None)
+bot = commands.Bot(command_prefix="~", case_insensitive = True, description = "I.R.I.S., THE R0YAL BOT is THE PLAYER ZER0's Discord bot written in Python 3.9 which is specifically made for the PLAYER ZER0 STUDIOS' Discord Server!", help_command=None)
 
 @bot.command()
 async def ignorethiscommand(ctx, msgID: int):
