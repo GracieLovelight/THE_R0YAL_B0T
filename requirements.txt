@@ -1,0 +1,5 @@
+discord.py>=1.7.2
+aiohttp>=3.7.4
+pip>=21.3.1
+pytz
+datetime
