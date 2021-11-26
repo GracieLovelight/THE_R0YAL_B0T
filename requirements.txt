@@ -3,3 +3,5 @@ aiohttp>=3.7.4
 pip>=21.3.1
 pytz
 datetime
+better-profanity
+dadjokes
